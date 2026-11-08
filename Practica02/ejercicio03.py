@@ -10,7 +10,7 @@ Requisitos:
     • Cuando se produzca un error, mostrar un mensaje descriptivo y permitir un nuevo intento de la operación correspondiente.
     • Utilizar else y finally en al menos una de las operaciones realizadas.
     • Ejecutar las funciones creadas utilizando los datos proporcionados por el usuario y mostrar por consola los resultados de las operaciones correctas. Incluir 3 pruebas con datos válidos e inválidos.
-"""
+""" 
 def solicitar_valores():
     while True:
         try:
